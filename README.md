@@ -63,3 +63,16 @@ In this section, you’ll use the original parameters that the starter code prov
 #### Create an Evaluation Report
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
+
+## Evaluation Report
+
+#### In the predictions_df I used classification_report from sklearn.metrics.
+
+1. From reviewing the Actual Returns from the Strategy Returns, they follow pretty closely through mid 2018 but has less of a spread than the LogisticRegression model.
+
+
+
+
+#### In the new_predictions_df I used LogisticRegression from sklearn.linear_model
+
+1. From reviewing the Actual Returns from the Strategy Returns, they follow pretty exact through the first half of 2017 then has a larger spread than the classification_report model.

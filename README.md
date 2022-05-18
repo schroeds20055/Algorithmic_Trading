@@ -70,11 +70,11 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 1. From reviewing the Actual Returns from the Strategy Returns, they follow pretty closely through mid 2018 but has less of a spread than the LogisticRegression model.
 
-![classification_report model plot(https://github.com/schroeds20055/Module14_Challenge/blob/main/Starter_Code/Resources/classification_report_model.png)
+![classification_report model plot] (https://github.com/schroeds20055/Module14_Challenge/blob/main/Starter_Code/Resources/classification_report_model.png)
 
 
 #### In the new_predictions_df I used LogisticRegression from sklearn.linear_model
 
 1. From reviewing the Actual Returns from the Strategy Returns, they follow pretty exact through the first half of 2017 then has a larger spread than the classification_report model.
 
-![LogisticRegression model plot(https://github.com/schroeds20055/Module14_Challenge/blob/main/Starter_Code/Resources/LogisticRegression_model.png)
+![LogisticRegression model plot] (https://github.com/schroeds20055/Module14_Challenge/blob/main/Starter_Code/Resources/LogisticRegression_model.png)
